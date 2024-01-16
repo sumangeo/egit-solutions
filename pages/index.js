@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Welcome!" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+         <a href="https://egit.netlify.app" target="_blank">Visit EGIT Solutions</a>
         </p>
       </main>
 
